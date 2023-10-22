@@ -2,6 +2,10 @@
 前后端
 ## 慕课
 ### 后端
+Python Flask快速入门与进阶
+https://www.aliyundrive.com/s/kWM5w7Tj2Ji
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+
 Django2.0+小程序技术打造微信小程序助手
 https://www.aliyundrive.com/s/4zWJjYfiDS4
 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
